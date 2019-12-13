@@ -58,7 +58,7 @@ For PSoC 6 MCU devices, see [How to Design with PSoC 6 MCU - KBA223067](https://
 
 All other trademarks or registered trademarks referenced herein are the property of their respective owners.
 
-![Banner](images/Banner.png)
+![Banner](mtb-psoc6-dfu-app0-i2c/images/Banner.png)
 
 -------------------------------------------------------------------------------
 
